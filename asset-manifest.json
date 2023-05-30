@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/DataLink/static/css/main.e11872f1.css",
+    "main.js": "/DataLink/static/js/main.c1fa2937.js",
+    "static/media/laptop.jpg": "/DataLink/static/media/laptop.45ddf500e572fb2f1d35.jpg",
+    "static/media/single.png": "/DataLink/static/media/single.20196aa3e7e7fa48f8f7.png",
+    "static/media/double.png": "/DataLink/static/media/double.8be045e6bb88be63d414.png",
+    "static/media/triple.png": "/DataLink/static/media/triple.4eb8f19f4b4647321484.png",
+    "index.html": "/DataLink/index.html",
+    "main.e11872f1.css.map": "/DataLink/static/css/main.e11872f1.css.map",
+    "main.c1fa2937.js.map": "/DataLink/static/js/main.c1fa2937.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e11872f1.css",
+    "static/js/main.c1fa2937.js"
+  ]
+}
